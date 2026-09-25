@@ -18,7 +18,7 @@ This repository is heavily inspired by and structured around the following found
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://m.media-amazon.com/images/I/81Mv7J1eZKL._SL1500_.jpg" alt="Deep Learning with PyTorch cover" width="150"/>
+<img src="https://imgs.search.brave.com/zEqR4U-XPtZaS6HU6kcJCfMz4290nSfKWb34hB3KT8E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFwSnFiVEIxcEwu/anBn" alt="Deep Learning with PyTorch cover" width="150"/>
 <br/>
 <strong>Deep Learning with PyTorch</strong>
 <br/>
