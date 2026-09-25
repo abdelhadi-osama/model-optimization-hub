@@ -10,33 +10,49 @@ This hub sits under the umbrella of the SAIR PyTorch module and explores the cru
 
 This repository is heavily inspired by and structured around the following foundational texts:
 
-### 1. Ultimate ONNX for Deep Learning Optimization
-<img src="https://m.media-amazon.com/images/I/71c6t42fGqL._SL1500_.jpg" alt="Ultimate ONNX Cover" width="250" align="right">
 
-* **Author:** Meet Patel[cite: 1]
-* **Focus:** Design, Optimize, and Deploy Deep Learning Models Using ONNX for Scalable Production and Edge AI Systems.[cite: 1]
-* **Key Topics:** 
-  * Overcoming the hurdles of deployment to build practical, performant systems at the edge.[cite: 1]
-  * Model conversion from frameworks like PyTorch and TensorFlow into ONNX.[cite: 1]
-  * Applying post-training quantization (PTQ) to shrink FP32 models into INT8 precision for faster compute.[cite: 1]
-  * Utilizing tools like ONNX Simplifier and ONNX Runtime to prune redundant nodes and execute models efficiently.[cite: 1]
+<div align="center">
 
-<br><br><br>
+<img src="https://img.shields.io/badge/REQUIRED_READING-MODEL_OPTIMIZATION-D32F2F?style=for-the-badge&logo=bookstack&logoColor=white" alt="Mandatory reading badge"/>
 
-### 2. Deep Learning with PyTorch & Mastering PyTorch (2nd Ed.)
-<img src="https://m.media-amazon.com/images/I/81Mv7J1eZKL._SL1500_.jpg" alt="Deep Learning with PyTorch Cover" width="250" align="right">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://m.media-amazon.com/images/I/81Mv7J1eZKL._SL1500_.jpg" alt="Deep Learning with PyTorch cover" width="150"/>
+<br/>
+<strong>Deep Learning with PyTorch</strong>
+<br/>
+<em>Eli Stevens, Luca Antiga, and Thomas Viehmann</em>
+<br/><br/>
+<img src="https://img.shields.io/badge/📖 Read_Chapter_15-Deployment-4CAF50?style=flat-square" alt="Read Chapter 15"/>
+<br/><sub>Bridging PyTorch to production environments</sub>
+</td>
 
-* **Authors:** Eli Stevens, Luca Antiga, and Thomas Viehmann (Deep Learning with PyTorch)
-* **Focus:** 
-  * **Mastering PyTorch (2nd Edition):** Chapter 13
-  * **Deep Learning with PyTorch:** Chapter 15
-* **Key Topics:** 
-  * Extracting and compiling PyTorch models using **TorchScript**.
-  * Detaching models from the heavy PyTorch Python dependency for C++ production environments.
-  * Bridging the gap between the PyTorch training ecosystem and production deployment.
+<td align="center" width="33%">
+<img src="https://m.media-amazon.com/images/I/71u9s8G-wLL._SL1500_.jpg" alt="Mastering PyTorch cover" width="150"/>
+<br/>
+<strong>Mastering PyTorch<br/>(2nd Edition)</strong>
+<br/>
+<em>Ashish Ranjan</em>
+<br/><br/>
+<img src="https://img.shields.io/badge/📖 Read_Chapter_13-TorchScript-2196F3?style=flat-square" alt="Read Chapter 13"/>
+<br/><sub>Exporting and tracing PyTorch models</sub>
+</td>
 
-<br><br><br>
+<td align="center" width="33%">
+<img src="https://m.media-amazon.com/images/I/71c6t42fGqL._SL1500_.jpg" alt="Ultimate ONNX cover" width="150"/>
+<br/>
+<strong>Ultimate ONNX for Deep Learning Optimization</strong>[cite: 1]
+<br/>
+<em>Meet Patel</em>[cite: 1]
+<br/><br/>
+<img src="https://img.shields.io/badge/📖 Read_In_Parallel-ONNX_Ecosystem-EE4C2C?style=flat-square" alt="Read ONNX Book"/>
+<br/><sub>Scalable production and Edge AI systems</sub>[cite: 1]
+</td>
+</tr>
+</table>
 
+</div>
 ---
 
 ## 🗂️ Repository Structure
