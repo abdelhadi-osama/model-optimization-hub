@@ -2,7 +2,7 @@
 
 Welcome to the **Model Optimization Hub**! This repository documents the journey of taking deep learning models from the research/training phase and making them blazing-fast, lightweight, and **ready for production**. 
 
-This hub sits under the umbrella of the [SAIR_Jr Applied Deep Learning with PyTorch](https://github.com/SAIR-Org/SAIR_Jr/tree/main/4_Applied%20Deep%20Learning%20with%20PyTorch) and explores the crucial steps of the deep learning inference optimization pipeline, including graph optimization, quantization, and edge deployment.
+This hub sits under the umbrella of the [SAIR_Jr  Applied Deep Learning with PyTorch](https://github.com/SAIR-Org/SAIR_Jr/tree/main/4_Applied%20Deep%20Learning%20with%20PyTorch) and explores the crucial steps of the deep learning inference optimization pipeline, including graph optimization, quantization, and edge deployment.
 
 ---
 
