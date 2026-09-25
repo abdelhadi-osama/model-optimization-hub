@@ -79,4 +79,4 @@ A model is only as good as its ability to run in the real world. This repository
 4. **Deployment:** Running inference efficiently using lightweight runtimes instead of heavy training frameworks.
 
 ---
-*Created as part of the [SAIR_Jr Applied Deep Learning with PyTorch](https://github.com/SAIR-Org/SAIR_Jr/tree/main/4_Applied%20Deep%20Learning%20with%20PyTorch) track.*
+*Created as part of the [SAIR_Jr ](https://github.com/SAIR-Org/SAIR_Jr) track.*
