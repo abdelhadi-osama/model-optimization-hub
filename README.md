@@ -29,7 +29,7 @@ This repository is heavily inspired by and structured around the following found
 </td>
 
 <td align="center" width="33%">
-<img src="https://m.media-amazon.com/images/I/71u9s8G-wLL._SL1500_.jpg" alt="Mastering PyTorch cover" width="150"/>
+<img src="https://imgs.search.brave.com/ms-KM4Lt2g2D0AtEKWqLc3XFNRf5QrWU16ehl5EeEd4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vTWFz/dGVyaW5nLVB5VG9y/Y2gtU2Vjb25kLUVk/aXRpb24tQ3JlYXRl/LWFuZC1kZXBsb3kt/ZGVlcC1sZWFybmlu/Zy1tb2RlbHMtZnJv/bS1DTk5zLXRvLW11/bHRpbW9kYWwtbW9k/ZWxzLUxMTXMtYW5k/LWJleS1QYXBlcmJh/Y2stOTc4MTgwMTA3/NDMwOF8zYTZhZGZk/NC05NTM5LTRlNzgt/YjY0OC05NzQ4NTQ1/MjNmNjEuNWE4Mjdj/YWI1YjkxZGUzYTQy/YzgzNjEzZWMxYTMw/NjUuanBlZz9vZG5I/ZWlnaHQ9NTczJm9k/bldpZHRoPTU3MyZv/ZG5CZz1GRkZGRkY" alt="Mastering PyTorch cover" width="150"/>
 <br/>
 <strong>Mastering PyTorch<br/>(2nd Edition)</strong>
 <br/>
