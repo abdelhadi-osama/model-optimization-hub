@@ -40,7 +40,7 @@ This repository is heavily inspired by and structured around the following found
 </td>
 
 <td align="center" width="33%">
-<img src="https://m.media-amazon.com/images/I/71c6t42fGqL._SL1500_.jpg" alt="Ultimate ONNX cover" width="150"/>
+<img src="https://imgs.search.brave.com/0dVR_h89iL_2yqwr952iusrKR1l8YRhsrK8akkW5wds/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/cGVybGVnby5jb20v/Ym9vay1jb3ZlcnMv/NTM1MzAxNy85Nzg5/MzQ5ODg3MjA2XzMw/MF80NTAud2VicA" alt="Ultimate ONNX cover" width="150"/>
 <br/>
 <strong>Ultimate ONNX for Deep Learning Optimization</strong>[cite: 1]
 <br/>
