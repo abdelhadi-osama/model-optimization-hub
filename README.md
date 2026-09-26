@@ -60,7 +60,7 @@ Our workspace is divided into specific pipelines to keep the learning modular an
 
 * 📁 **`onnx-ecosystem/`**
   * Contains notes, scripts, and exported `.onnx` models.
-  * Explores the universal ONNX format, graph optimizations using ONNX Simplifier, and execution via ONNX Runtime.[cite: 1]
+  * Explores the universal ONNX format, graph optimizations using ONNX Simplifier, and execution via ONNX Runtime.
 * 📁 **`torchscript-export/`**
   * Dedicated to PyTorch's native JIT compiler (TorchScript).
   * Contains examples of tracing and scripting PyTorch models for deployment without Python overhead.
@@ -74,8 +74,8 @@ Our workspace is divided into specific pipelines to keep the learning modular an
 
 A model is only as good as its ability to run in the real world. This repository focuses on the "after-training" lifecycle:
 1. **Exporting:** Translating models from PyTorch (`.pt`) into production-friendly formats (`.onnx` or TorchScript).
-2. **Graph Optimization:** Fusing layers (like Conv+BatchNorm) and eliminating dead code.[cite: 1]
-3. **Quantization:** Reducing the precision of weights (e.g., FP32 to INT8) to save memory and increase speed on edge devices.[cite: 1]
+2. **Graph Optimization:** Fusing layers (like Conv+BatchNorm) and eliminating dead code.
+3. **Quantization:** Reducing the precision of weights (e.g., FP32 to INT8) to save memory and increase speed on edge devices.
 4. **Deployment:** Running inference efficiently using lightweight runtimes instead of heavy training frameworks.
 
 ---
